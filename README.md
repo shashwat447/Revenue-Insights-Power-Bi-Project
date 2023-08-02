@@ -34,3 +34,4 @@ Online Reputation Analysis: I analyzed online reviews and ratings to gauge custo
 I prepared a comprehensive report summarizing the key metrics, the dashboard I created, and the additional insights derived from the data analysis. I presented these findings to the revenue management team and the managing director of AtliQ Grands. Using visualizations and clear explanations, my goal was to facilitate better understanding and informed decision-making.
 
 By providing valuable data-driven insights, I aimed to assist AtliQ Grands in formulating effective strategies to regain market share and increase revenue in the luxury/business hotels category.
+![Dashboard](https://user-images.githubusercontent.com/141002227/257806362-488223cb-b97f-47a9-ba3f-f63b9760e9f0.jpg)
